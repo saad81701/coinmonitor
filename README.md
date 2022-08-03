@@ -18,10 +18,10 @@ track the market.
 - Install dependecies with `npm i`
 - Add a file named `.env` and add following environment varibles:
 ```
-TELEGRAM_TOKEN=<> 
-MONGO_URI=<>
+TELEGRAM_TOKEN=<1532988518:AAFFaPkUauTdRGmCOsEz2vl1nPrVArYyapQ>
+MONGO_URI=<mongodb://keystonejs_user:my_password@cluster0-shard-00-00-qfovx.mongodb.net:27017,cluster0-shard-00-01-qfovx.mongodb.net:27017,cluster0-shard-00-02-qfovx.mongodb.net:27017/clusterdb?ssl=true&authSource=admin>
 DATA_URL=https://api.livecoinwatch.com
-DATA_KEY=<>
+DATA_KEY=<c23c5a30-2657-4832-85ef-f7575f166d6b>
 TWITTER_URL=<>
 TWITTER_TOKEN=<>
 ```
